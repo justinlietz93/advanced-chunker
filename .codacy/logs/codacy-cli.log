@@ -1,0 +1,2 @@
+2025-10-01T09:22:01-05:00 [INFO] (codacy-cli-v2/cli-v2.go:27) Starting Codacy CLI version=1.0.0-main.355.sha.100b5f7 (100b5f7) built at 2025-09-04T11:22:21Z
+2025-10-01T09:22:01-05:00 [INFO] (codacy-cli-v2/cmd/root.go:34) Executing CLI command command=init full_command=[/home/justin/.cache/codacy/codacy-cli-v2/1.0.0-main.355.sha.100b5f7/codacy-cli-v2 init --provider gh --organization rango-ramesh --repository advanced-chunker --api-token ***] args=[]

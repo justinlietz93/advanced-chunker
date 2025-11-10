@@ -111,3 +111,7 @@ dmypy.json
 
 # Semantic Chunker build artifacts
 semantic_chunker.egg-info/
+
+
+#Ignore vscode AI rules
+.github/instructions/codacy.instructions.md
